@@ -1,5 +1,5 @@
 # Car Insurance Website
-Front-End Project For Care Insurance Website
+Front-End Project For Car Insurance Website
 
 Used HTML, CSS, JavaScript, Fontawesome
 
